@@ -21,7 +21,7 @@ We use Pixi : https://pixi.prefix.dev/latest/installation/ in order to manage th
 
 1. Clone this repository:
    ```bash
-   [git clone git@github.com:giniknnkmeans/KNN_Kmeans_Gini_prametric.git](https://github.com/bangtan66708/MDS_Gini_pseudo_metric.git)
+   git clone git@github.com:giniknnkmeans/KNN_Kmeans_Gini_prametric.git](https://github.com/bangtan66708/MDS_Gini_pseudo_metric.git)
    cd MDS_Gini_pseudo_metric
    ```
 
