@@ -11,7 +11,15 @@ We provide experiments on 16 UCI datasets  and  on  MNIST  images  to  show  tha
 
 This respository contains a pytorch implementation of the Gini MDS allowing an acceleration compared to scikit-learn implementation. 
 
-![Visualization of clusters with two metrics: euclidean and Gini with nu =3.52](kmeans_clusters.png)
+<figure>
+  <p float="left">
+    <img src="graph-Euclidean.png" width="200" />
+    <img src="graph-Gini.png" width="200" />
+  </p>
+  <figcaption>
+    <b>Figure 1.</b> Comparison of Euclidean MDS (left) and Gini MDS (right) on Cars dataset.
+  </figcaption>
+</figure>
 
 ---
 
