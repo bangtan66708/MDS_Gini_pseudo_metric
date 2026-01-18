@@ -15,10 +15,9 @@ This respository contains a pytorch implementation of the Gini MDS allowing an a
   <p align="center">
   <img src="graph-Euclidean.png" width="400" />
   <img src="graph-Gini.png" width="400" />
+    <br/>
+  <em>Figure 1 :  Comparison of Euclidean MDS (left) and Gini MDS (right) on Cars dataset..</em>
 </p>
-  <figcaption>
-    <b>Figure 1.</b> Comparison of Euclidean MDS (left) and Gini MDS (right) on Cars dataset.
-  </figcaption>
 </figure>
 
 ---
