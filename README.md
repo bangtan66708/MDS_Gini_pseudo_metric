@@ -60,7 +60,7 @@ This file contains the experiment carried out on the 16 UCI datasets https://arc
 ```bash
    pixi run python MDS_UCI.py
  ```
-2. MNIST.py
+2. MNIST.ipynb
 This file contains the experiment on MNIST dataset.
 
 In order to run the MNIST file, first you need to download the MNIST dataset using the download_mnist.py file :
@@ -73,10 +73,12 @@ Then, you need to create a jupyter kernel using the Pixi environement :
 ```bash
    pixi run ipython kernel install --name=MDS_Gini --user
  ```
-Finally, select MDS_Gini in Jupyter/VSCode and the MNIST.py file can be run. 
+Finally, select MDS_Gini in Jupyter/VSCode and the MNIST.ipynb file can be run. 
 
 3. Simulations.ipynb
 This file contains all the simulations from Algorithm 2. It corresponds to an experiment for heavy-tailed distributions.
+
+It can be run using the MDS_Gini kernel built to run the MNIST.ipynb file.
 
 ---
 ## License
